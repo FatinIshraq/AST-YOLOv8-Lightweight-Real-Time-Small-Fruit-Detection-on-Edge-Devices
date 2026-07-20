@@ -76,8 +76,4 @@ PyTorch (.pt) → ONNX → TensorRT FP16 (.engine) → Jetson Xavier NX
 | Custom blueberry dataset | 🔒 Released upon paper acceptance |
 | TensorRT deployment scripts | 🔒 Released upon paper acceptance |
 
-## Author
 
-**Fatin Ishraq** 
-
-[![GitHub](https://img.shields.io/badge/GitHub-FatinIshraq-black?logo=github)](https://github.com/FatinIshraq)
